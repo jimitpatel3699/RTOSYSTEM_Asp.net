@@ -16,7 +16,7 @@ ii) Search owner and other details of the Vehicales.
 
 for that system have two different modules.
 
-A user and RTO officer which is a admin for the system both have its different login crdentials by using that they are able to login to the system.
+A user and RTO officer who is a admin for the system both have its different login credentials by using that they are able to login to the system.
 
 
 Techanical Details:-
